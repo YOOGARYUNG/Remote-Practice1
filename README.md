@@ -2,7 +2,7 @@
 
 -메롱메롱
 
-[구글링크](http://www.google.com)
+[네이버링크](http://www.naver.com)
 
 ```java
 public class Hello {
