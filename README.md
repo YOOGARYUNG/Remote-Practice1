@@ -7,4 +7,5 @@
 ```java
 public class Hello {
     private in number;
+    int n =10;
 }```
